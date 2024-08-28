@@ -7,5 +7,5 @@ I love learning new things, and the topic of Solidity Smart Contracts seems to b
 Let's go!
 
 ## Diary
-Day 1 - August 27, 2024 - Learning from scratch.
+- Day 1 - August 27, 2024 - Learning from scratch. Today I just created a github repository and syncronized in my PC. Video lesson: minutes 0:00 - 28:00
 
